@@ -1,0 +1,22 @@
+{
+  "name": "diemthi-thpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidt/diemthi-thpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chidt/diemthi-thpt/issues"
+  },
+  "homepage": "https://github.com/chidt/diemthi-thpt#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11"
+  }
+}
